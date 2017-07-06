@@ -7,7 +7,7 @@ from keras.layers.convolutional import Conv3D
 from keras.layers.convolutional_recurrent import ConvLSTM2D
 from keras.layers.normalization import BatchNormalization
 import numpy as np
-import pylab as plt
+# import pylab as plt
 import tensorflow as tf
 
 # We create a layer which take as input movies of shape
